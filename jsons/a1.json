@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the capital of England?",
+    "options": ["Paris", "London", "Madrid", "Berlin"],
+    "correct": 1,
+    "explanation": "مدينة لندن (London) هي عاصمة إنجلترا والمملكة المتحدة."
+  },
+  {
+    "question": "Choose the correct pronoun: ___ is my best friend, Sarah.",
+    "options": ["He", "She", "It", "They"],
+    "correct": 1,
+    "explanation": "نستخدم 'She' للإشارة إلى المفرد المؤنث (Sarah)."
+  },
+  {
+    "question": "They ___ football every Friday.",
+    "options": ["play", "plays", "playing", "played"],
+    "correct": 0,
+    "explanation": "مع الضمير 'They' في المضارع البسيط، نستخدم الفعل في المصدر بدون إضافات."
+  },
+  {
+    "question": "I have ___ apple in my bag.",
+    "options": ["a", "an", "the", "some"],
+    "correct": 1,
+    "explanation": "نستخدم 'an' قبل الكلمات التي تبدأ بصوت متحرك (a, e, i, o, u)."
+  },
+  {
+    "question": "How ___ are you? - I am 20 years old.",
+    "options": ["old", "tall", "many", "long"],
+    "correct": 0,
+    "explanation": "السؤال عن العمر دائماً يكون باستخدام الصيغة 'How old'."
+  },
+  {
+    "question": "The cat is ___ the table.",
+    "options": ["under", "between", "at", "to"],
+    "correct": 0,
+    "explanation": "كلمة 'under' تعني (تحت)، وهي الأنسب لوصف مكان القطة بالنسبة للطاولة."
+  },
+  {
+    "question": "We ___ happy today.",
+    "options": ["is", "am", "are", "be"],
+    "correct": 2,
+    "explanation": "نستخدم فعل المساعدة 'are' مع ضمير الجمع 'We'."
+  },
+  {
+    "question": "Does he ___ coffee?",
+    "options": ["likes", "like", "liking", "liked"],
+    "correct": 1,
+    "explanation": "بعد فعل المساعدة 'Does' في السؤال، يجب أن يعود الفعل لحالة المصدر (like)."
+  },
+  {
+    "question": "My father is a ___. He works in a hospital.",
+    "options": ["teacher", "pilot", "doctor", "chef"],
+    "correct": 2,
+    "explanation": "بما أنه يعمل في مستشفى (hospital)، فمن المؤكد أنه طبيب (doctor)."
+  },
+  {
+    "question": "What ___ your name?",
+    "options": ["am", "is", "are", "do"],
+    "correct": 1,
+    "explanation": "الاسم (name) مفرد، لذا نستخدم معه 'is'."
+  },
+  {
+    "question": "I ___ speak Spanish very well.",
+    "options": ["can", "am", "is", "do"],
+    "correct": 0,
+    "explanation": "نستخدم 'can' للتعبير عن القدرة أو المهارة (Ability)."
+  },
+  {
+    "question": "Which color is the grass?",
+    "options": ["Red", "Blue", "Yellow", "Green"],
+    "correct": 3,
+    "explanation": "لون العشب (grass) هو الأخضر (Green)."
+  },
+  {
+    "question": "There ___ five books on the desk.",
+    "options": ["is", "am", "are", "was"],
+    "correct": 2,
+    "explanation": "نستخدم 'There are' عندما نتحدث عن أشياء بصيغة الجمع."
+  },
+  {
+    "question": "Look! It is ___ now.",
+    "options": ["rain", "rains", "raining", "rained"],
+    "correct": 2,
+    "explanation": "كلمة 'Look' تدل على المضارع المستمر، لذا نستخدم فعل ينتهي بـ 'ing'."
+  },
+  {
+    "question": "Where ___ you live?",
+    "options": ["do", "does", "is", "are"],
+    "correct": 0,
+    "explanation": "في السؤال بالمضارع البسيط مع 'you'، نستخدم فعل المساعدة 'do'."
+  }
+]

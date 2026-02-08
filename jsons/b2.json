@@ -1,0 +1,92 @@
+[
+  {
+    "question": "By this time next year, I ___ my university degree.",
+    "options": ["will finish", "will have finished", "am finishing", "will be finished"],
+    "correct": 1,
+    "explanation": "نستخدم المستقبل التام (Future Perfect) للتعبير عن فعل سيكون قد اكتمل بحلول وقت معين في المستقبل."
+  },
+  {
+    "question": "I'd rather you ___ anyone what I told you yesterday.",
+    "options": ["don't tell", "didn't tell", "not to tell", "won't tell"],
+    "correct": 1,
+    "explanation": "بعد 'I'd rather' عندما يكون هناك فاعل آخر، نستخدم الماضي البسيط للتعبير عن رغبة في الحاضر أو المستقبل."
+  },
+  {
+    "question": "Hardly ___ the office when the phone started ringing again.",
+    "options": ["I had left", "had I left", "I left", "was I leaving"],
+    "correct": 1,
+    "explanation": "عند البدء بكلمات مثل 'Hardly' أو 'No sooner'، يجب قلب ترتيب الجملة (Inversion) لتصبح مثل صيغة السؤال."
+  },
+  {
+    "question": "The company is ___ to launch a new product next month.",
+    "options": ["about", "due", "likely", "on the verge"],
+    "correct": 1,
+    "explanation": "نستخدم 'due to' متبوعة بالمصدر للتعبير عن أحداث مجدولة زمنياً (Scheduled events)."
+  },
+  {
+    "question": "I regret ___ you that your application has been unsuccessful.",
+    "options": ["to inform", "informing", "inform", "having informed"],
+    "correct": 0,
+    "explanation": "نستخدم 'regret + to' للإخبار بخبر سيئ، بينما 'regret + ing' نستخدمها للندم على فعل شيء في الماضي."
+  },
+  {
+    "question": "It's high time you ___ looking for a job.",
+    "options": ["start", "started", "to start", "starting"],
+    "correct": 1,
+    "explanation": "التعبير 'It's high time' يتبعه فاعل ثم فعل في الماضي البسيط للتعبير عن الانتقاد أو ضرورة فعل شيء الآن."
+  },
+  {
+    "question": "The suspect denied ___ anything to do with the robbery.",
+    "options": ["to have", "having", "had", "have"],
+    "correct": 1,
+    "explanation": "الفعل 'deny' يتبعه دائماً فعل ينتهي بـ (ing)."
+  },
+  {
+    "question": "If only I ___ more attention during the lecture yesterday!",
+    "options": ["paid", "would pay", "had paid", "was paying"],
+    "correct": 2,
+    "explanation": "نستخدم 'If only' مع الماضي التام (had + V3) للتعبير عن الندم على شيء فات في الماضي."
+  },
+  {
+    "question": "She ___ have forgotten about the meeting; she never misses one.",
+    "options": ["must", "can't", "should", "might"],
+    "correct": 1,
+    "explanation": "نستخدم 'can't have + V3' للاستنتاج المنطقي القوي بأن شيئاً ما مستحيل الحدوث في الماضي."
+  },
+  {
+    "question": "We had to call ___ the football match due to heavy rain.",
+    "options": ["off", "out", "on", "away"],
+    "correct": 0,
+    "explanation": "الفعل الاصطلاحي 'call off' يعني إلغاء (Cancel) حدث ما."
+  },
+  {
+    "question": "Not only ___ beautiful, but she is also very intelligent.",
+    "options": ["is she", "she is", "was she", "she has"],
+    "correct": 0,
+    "explanation": "عند البدء بـ 'Not only'، نستخدم أسلوب القلب (Inversion) بتقديم الفعل المساعد على الفاعل."
+  },
+  {
+    "question": "The more you practice, ___ you will become.",
+    "options": ["the better", "better", "best", "the best"],
+    "correct": 0,
+    "explanation": "هذا أسلوب المقارنة المزدوجة: The + comparative, the + comparative."
+  },
+  {
+    "question": "The person ___ I was talking to is my professor.",
+    "options": ["which", "whose", "whom", "what"],
+    "correct": 2,
+    "explanation": "نستخدم 'whom' كضمير وصل للإشارة إلى المفعول به العاقل، خاصة بعد حرف جر أو في السياقات الرسمية."
+  },
+  {
+    "question": "He succeeded ___ passing the exam despite the difficulties.",
+    "options": ["on", "in", "at", "with"],
+    "correct": 1,
+    "explanation": "الفعل 'succeed' يأخذ حرف الجر 'in' دائماً."
+  },
+  {
+    "question": "Suppose you ___ a million dollars, what would you do?",
+    "options": ["win", "won", "had won", "winning"],
+    "correct": 1,
+    "explanation": "بعد 'Suppose' في المواقف الخيالية الحاضرة، نستخدم الماضي البسيط (Second Conditional style)."
+  }
+]

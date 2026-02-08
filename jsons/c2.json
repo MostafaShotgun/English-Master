@@ -1,0 +1,92 @@
+[
+  {
+    "question": "The candidate's performance was ___ mediocre, failing to impress the panel.",
+    "options": ["decidedly", "utterly", "virtually", "highly"],
+    "correct": 0,
+    "explanation": "نستخدم 'decidedly' مع 'mediocre' للتوكيد على أن الصفة واضحة ولا لبس فيها، وهو أسلوب بلاغي متقدم."
+  },
+  {
+    "question": "The company’s plans to expand are ___ on the board's approval.",
+    "options": ["contingent", "conditional", "dependant", "subjective"],
+    "correct": 0,
+    "explanation": "تعبير 'contingent on' هو المصطلح الأكاديمي والقانوني الأدق لقول 'يعتمد على' في سياق رسمي."
+  },
+  {
+    "question": "___ should you disclose your password to anyone, regardless of the circumstances.",
+    "options": ["Under no circumstances", "On no account", "In no way", "By no means"],
+    "correct": 1,
+    "explanation": "رغم أن الخيارات تبدو متشابهة، إلا أن 'On no account' هي الأكثر شيوعاً وقوة في إعطاء تعليمات أمنية صارمة مع قلب الجملة (Inversion)."
+  },
+  {
+    "question": "The author’s prose is so ___ that it requires multiple readings to fully grasp.",
+    "options": ["dense", "opaque", "transparent", "lucid"],
+    "correct": 1,
+    "explanation": "كلمة 'opaque' (بمعنى معتم) تُستخدم مجازياً في النقد الأدبي لوصف النصوص بالغة التعقيد التي يصعب فهم مرماها."
+  },
+  {
+    "question": "He was a ___ debater, often leaving his opponents speechless.",
+    "options": ["formidable", "strenuous", "vigorous", "resilient"],
+    "correct": 0,
+    "explanation": "صفة 'formidable' هي الكلمة المثالية لوصف الخصم الذي يثير الرهبة بسبب قوته أو مهارته العالية."
+  },
+  {
+    "question": "The new law has ___ a storm of controversy across the country.",
+    "options": ["provoked", "evoked", "instigated", "ignited"],
+    "correct": 0,
+    "explanation": "المتلازمة اللفظية (Collocation) الصحيحة لوصف إثارة العواصف أو الجدل هي 'provoked a storm'."
+  },
+  {
+    "question": "It is not often that such a ___ opportunity presents itself.",
+    "options": ["golden", "gilded", "silver", "platinum"],
+    "correct": 0,
+    "explanation": "الاصطلاح 'A golden opportunity' يعني فرصة ذهبية نادرة، وهو تعبير اصطلاحي ثابت."
+  },
+  {
+    "question": "Were the tax cuts ___ implemented, the economy would likely overstimulate.",
+    "options": ["to be", "being", "been", "have been"],
+    "correct": 0,
+    "explanation": "هذا أسلوب (Inverted Second Conditional) رسمي جداً، نستخدم 'Were + Subject + to + verb'."
+  },
+  {
+    "question": "She has an ___ knack for finding the best deals in any city.",
+    "options": ["uncanny", "unearthly", "unnatural", "unwitting"],
+    "correct": 0,
+    "explanation": "تعبير 'uncanny knack' يعني موهبة أو قدرة غريبة وغير طبيعية على فعل شيء ما بدقة."
+  },
+  {
+    "question": "The witness's testimony was ___ with inconsistencies.",
+    "options": ["rife", "fraught", "abundant", "teeming"],
+    "correct": 0,
+    "explanation": "نستخدم 'rife with' لوصف شيء مليء بالأخطاء أو الأشياء السلبية الشائعة."
+  },
+  {
+    "question": "The diplomat handled the delicate situation with great ___.",
+    "options": ["finesse", "aptitude", "agility", "efficiency"],
+    "correct": 0,
+    "explanation": "كلمة 'finesse' تعني البراعة والدقة المتناهية في التعامل مع المواقف الصعبة."
+  },
+  {
+    "question": "I'd rather you ___ making so much noise while I'm working.",
+    "options": ["refrained from", "refrain from", "not to refrain", "had refrained"],
+    "correct": 0,
+    "explanation": "بعد 'I'd rather you' نستخدم الماضي البسيط، و'refrained from' هو التعبير الرسمي للأدب في الطلب."
+  },
+  {
+    "question": "The rebels were forced to ___ their weapons after weeks of siege.",
+    "options": ["relinquish", "forgo", "abandon", "discard"],
+    "correct": 0,
+    "explanation": "كلمة 'relinquish' هي الفعل الرسمي للتنازل عن ممتلكات أو أسلحة أو سلطة تحت الضغط."
+  },
+  {
+    "question": "His speech was a ___ reminder of the dangers of climate change.",
+    "options": ["stark", "blank", "sheer", "steep"],
+    "correct": 0,
+    "explanation": "نستخدم 'stark reminder' لوصف التذكير القاسي والواضح جداً بحقيقة مؤلمة."
+  },
+  {
+    "question": "No sooner ___ the auditorium than the lights went out.",
+    "options": ["had they entered", "they had entered", "did they enter", "were they entered"],
+    "correct": 0,
+    "explanation": "تعبير 'No sooner' يتطلب دائماً صيغة الماضي التام المقلوب (Inversion) متبوعاً بكلمة 'than'."
+  }
+]

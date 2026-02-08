@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Had I known about the consequences, I ___ the contract.",
+    "options": ["wouldn't sign", "hadn't signed", "wouldn't have signed", "didn't sign"],
+    "correct": 2,
+    "explanation": "هذه الحالة الشرطية الثالثة المقلوبة (Inverted Third Conditional). نستخدم 'Had + Subject + V3' بدلاً من 'If I had' والجزء الثاني يكون 'would have + V3'."
+  },
+  {
+    "question": "The government is under pressure to ___ the current economic crisis.",
+    "options": ["alleviate", "exacerbate", "deteriorate", "reiterate"],
+    "correct": 0,
+    "explanation": "كلمة 'alleviate' تعني يُخفف أو يُلطف (مثل تخفيف الألم أو الأزمات)، وهي الأنسب سياقياً هنا."
+  },
+  {
+    "question": "Rarely ___ such a breathtaking performance in the history of this theater.",
+    "options": ["we have seen", "have we seen", "we saw", "did we saw"],
+    "correct": 1,
+    "explanation": "عند البدء بظرف نفي مثل 'Rarely'، يجب استخدام صيغة القلب (Inversion) بتقديم الفعل المساعد على الفاعل."
+  },
+  {
+    "question": "He was found guilty of ___ evidence during the trial.",
+    "options": ["tampering with", "looking into", "breaking down", "setting off"],
+    "correct": 0,
+    "explanation": "المصطلح 'tampering with' يعني التلاعب بـ (مثل التلاعب بالأدلة)، وهو تعبير قانوني شائع في مستوى C1."
+  },
+  {
+    "question": "It is imperative that the CEO ___ present at the emergency meeting.",
+    "options": ["is", "be", "was", "being"],
+    "correct": 1,
+    "explanation": "بعد صفات مثل 'imperative' أو 'essential'، نستخدم صيغة (Subjunctive) حيث يكون الفعل في المصدر (be) بغض النظر عن الفاعل."
+  },
+  {
+    "question": "The project failed, but ___ we learned some valuable lessons.",
+    "options": ["nonetheless", "notwithstanding", "subsequently", "hence"],
+    "correct": 0,
+    "explanation": "تُستخدم 'nonetheless' (ومع ذلك) للربط بين جملتين بينهما تناقض، وتعتبر من الروابط الأكاديمية القوية."
+  },
+  {
+    "question": "I'm afraid I've ___ a bit of a cold; I won't be able to come tonight.",
+    "options": ["come down with", "run out of", "gone through with", "put up with"],
+    "correct": 0,
+    "explanation": "الفعل الاصطلاحي 'come down with' يعني الإصابة بمرض (عادة مرض بسيط كالبرد)."
+  },
+  {
+    "question": "She's a very ___ person; she always notices the smallest details.",
+    "options": ["perceptive", "vague", "indifferent", "complacent"],
+    "correct": 0,
+    "explanation": "كلمة 'perceptive' تعني شديد الملاحظة أو ذكي الإدراك، وهي صفة متقدمة لوصف الشخصيات."
+  },
+  {
+    "question": "By the end of the decade, scientists ___ a cure for this disease.",
+    "options": ["will find", "will be finding", "will have found", "are finding"],
+    "correct": 2,
+    "explanation": "نستخدم المستقبل التام (Future Perfect) للتعبير عن حدث سيكتمل قبل نقطة زمنية محددة في المستقبل."
+  },
+  {
+    "question": "Should you require any further assistance, please do not ___ to contact us.",
+    "options": ["hesitate", "reluctance", "pause", "delay"],
+    "correct": 0,
+    "explanation": "تعبير 'do not hesitate' (لا تتردد) هو أسلوب رسمي جداً وشائع في المراسلات التجارية والأكاديمية."
+  },
+  {
+    "question": "Little ___ that his invention would change the world forever.",
+    "options": ["he knew", "did he know", "he had known", "knows he"],
+    "correct": 1,
+    "explanation": "تعبير 'Little did he know' هو أسلوب أدبي متقدم يستخدم للتشويق، ويتبع قاعدة (Inversion)."
+  },
+  {
+    "question": "The talks were ___ on the grounds that no progress had been made.",
+    "options": ["adjourned", "instigated", "prolonged", "embarked"],
+    "correct": 0,
+    "explanation": "كلمة 'adjourned' تعني تأجيل أو رفع جلسة (مثل جلسات البرلمان أو المفاوضات)."
+  },
+  {
+    "question": "The results are ___ with our previous findings.",
+    "options": ["consistent", "contradictory", "relevant", "integral"],
+    "correct": 0,
+    "explanation": "تعبير 'consistent with' يعني متوافق مع، ويستخدم بكثرة في التقارير البحثية والأكاديمية."
+  },
+  {
+    "question": "He's always blowing his own ___; it's so annoying!",
+    "options": ["trumpet", "whistle", "horn", "drum"],
+    "correct": 0,
+    "explanation": "الاصطلاح 'blow one's own trumpet' يعني التباهي بالنفس أو التفاخر بالإنجازات."
+  },
+  {
+    "question": "I'd sooner you ___ stay out so late tonight.",
+    "options": ["don't", "didn't", "not to", "won't"],
+    "correct": 1,
+    "explanation": "بعد 'I'd sooner' (أفضل أن) المتبوعة بفاعل، نستخدم الماضي البسيط للتعبير عن تفضيل في الحاضر."
+  }
+]

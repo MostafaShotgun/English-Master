@@ -1,0 +1,92 @@
+[
+  {
+    "question": "This book ___ by a famous author in 1920.",
+    "options": ["wrote", "was written", "is written", "was writing"],
+    "correct": 1,
+    "explanation": "نستخدم المبني للمجهول في الماضي (was + past participle) لأن التركيز على الكتاب وليس من كتبه."
+  },
+  {
+    "question": "I've decided to ___ smoking for my health.",
+    "options": ["give up", "give in", "take up", "take out"],
+    "correct": 0,
+    "explanation": "الفعل الاصطلاحي 'give up' يعني الإقلاع عن عادة أو التوقف عن فعل شيء."
+  },
+  {
+    "question": "He asked me where ___ during my vacation.",
+    "options": ["did I go", "I went", "had I gone", "I go"],
+    "correct": 1,
+    "explanation": "في الكلام المنقول (Reported Speech)، نستخدم ترتيب الجملة الخبرية (فاعل + فعل) وليس ترتيب السؤال."
+  },
+  {
+    "question": "If I had more money, I ___ a new car.",
+    "options": ["will buy", "bought", "would buy", "would have bought"],
+    "correct": 2,
+    "explanation": "هذه الحالة الشرطية الثانية (Second Conditional) التي تعبر عن مواقف خيالية؛ نستخدم would + المصدر."
+  },
+  {
+    "question": "I'm looking forward to ___ you at the party.",
+    "options": ["see", "saw", "seeing", "seen"],
+    "correct": 2,
+    "explanation": "التعبير 'looking forward to' يتبعه دائماً فعل ينتهي بـ ing (Gerund) رغم وجود 'to'."
+  },
+  {
+    "question": "The man ___ lives next door is a professional pilot.",
+    "options": ["which", "who", "whom", "whose"],
+    "correct": 1,
+    "explanation": "نستخدم اسم الموصول 'who' للإشارة إلى الأشخاص (الفاعل العاقل)."
+  },
+  {
+    "question": "I ___ my hair cut once a month.",
+    "options": ["get", "do", "make", "take"],
+    "correct": 0,
+    "explanation": "نستخدم الصيغة السببية (Causative form): get + object + V3 عندما يقوم شخص آخر بالخدمة لنا."
+  },
+  {
+    "question": "By the time we arrived, the movie ___.",
+    "options": ["started", "starts", "had started", "was starting"],
+    "correct": 2,
+    "explanation": "نستخدم الماضي التام (had + V3) للتعبير عن حدث وقع وانتهى قبل حدث آخر في الماضي."
+  },
+  {
+    "question": "I don't mind ___ for a few more minutes.",
+    "options": ["wait", "to wait", "waiting", "waited"],
+    "correct": 2,
+    "explanation": "الفعل 'mind' من الأفعال التي يجب أن يتبعها Gerund (الفعل مضافاً له ing)."
+  },
+  {
+    "question": "You ___ better see a doctor about that cough.",
+    "options": ["would", "had", "should", "did"],
+    "correct": 1,
+    "explanation": "التعبير 'had better' يستخدم لإعطاء نصيحة قوية ومعناه (من الأفضل أن)."
+  },
+  {
+    "question": "___ the rain, we went out for a walk.",
+    "options": ["Although", "Despite", "In spite", "Even though"],
+    "correct": 1,
+    "explanation": "نستخدم 'Despite' متبوعة باسم أو Gerund للتعبير عن التناقض."
+  },
+  {
+    "question": "I wish I ___ play the piano as well as you do.",
+    "options": ["can", "could", "will", "would"],
+    "correct": 1,
+    "explanation": "بعد 'wish' للتعبير عن تمني قدرة في الحاضر، نستخدم الماضي من can وهو 'could'."
+  },
+  {
+    "question": "He has been working here ___ three years.",
+    "options": ["since", "for", "during", "while"],
+    "correct": 1,
+    "explanation": "نستخدم 'for' للتعبير عن مدة زمنية كاملة (Period of time)."
+  },
+  {
+    "question": "Neither my brother ___ my sister likes spicy food.",
+    "options": ["or", "and", "nor", "but"],
+    "correct": 2,
+    "explanation": "التعبير الرابط الصحيح هو 'Neither... nor' ومعناه (لا هذا ولا ذاك)."
+  },
+  {
+    "question": "You don't need to bring an umbrella, ___ you?",
+    "options": ["do", "don't", "need", "needn't"],
+    "correct": 0,
+    "explanation": "في السؤال المذيل (Question Tag)، إذا كانت الجملة منفية بـ 'don't' يكون السؤال مثبت بـ 'do'."
+  }
+]

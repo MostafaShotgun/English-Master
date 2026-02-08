@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Yesterday, I ___ to the cinema with my friends.",
+    "options": ["go", "goes", "went", "going"],
+    "correct": 2,
+    "explanation": "نستخدم الصيغة الماضية 'went' لأن الجملة تحتوي على كلمة 'Yesterday'."
+  },
+  {
+    "question": "This car is ___ than my old one.",
+    "options": ["expensive", "more expensive", "most expensive", "expensiver"],
+    "correct": 1,
+    "explanation": "في المقارنة بين شيئين، نستخدم 'more' قبل الصفات الطويلة."
+  },
+  {
+    "question": "Have you ever ___ to France?",
+    "options": ["be", "was", "been", "go"],
+    "correct": 2,
+    "explanation": "بعد 'Have' في زمن المضارع التام، نستخدم التصريف الثالث للفعل (Past Participle)، وهو 'been'."
+  },
+  {
+    "question": "I think it ___ rain tomorrow.",
+    "options": ["will", "is", "was", "does"],
+    "correct": 0,
+    "explanation": "نستخدم 'will' عند تقديم تنبؤات (Predictions) عن المستقبل."
+  },
+  {
+    "question": "She was cooking when the phone ___.",
+    "options": ["ring", "rings", "rang", "was ringing"],
+    "correct": 2,
+    "explanation": "عندما يقطع حدث طويل (كانت تطبخ) حدث قصير، نضع الحدث القصير في الماضي البسيط 'rang'."
+  },
+  {
+    "question": "You ___ smoke in the hospital. It's forbidden!",
+    "options": ["don't have to", "mustn't", "couldn't", "won't"],
+    "correct": 1,
+    "explanation": "نستخدم 'mustn't' للتعبير عن المنع القاطع أو القوانين."
+  },
+  {
+    "question": "I'm bored. Let's ___ to the park.",
+    "options": ["go", "going", "to go", "goes"],
+    "correct": 0,
+    "explanation": "بعد التعبير 'Let's' (هيا بنا)، يأتي الفعل دائماً في المصدر بدون أي إضافات."
+  },
+  {
+    "question": "How ___ sugar do you want in your tea?",
+    "options": ["many", "much", "few", "any"],
+    "correct": 1,
+    "explanation": "نستخدم 'much' مع الأسماء غير المعدودة (Uncountable nouns) مثل السكر."
+  },
+  {
+    "question": "He is the ___ player in the team.",
+    "options": ["good", "better", "best", "goodest"],
+    "correct": 2,
+    "explanation": "عند تفضيل واحد على الكل (Superlative)، تتحول 'good' إلى 'the best'."
+  },
+  {
+    "question": "I ___ a new laptop last week.",
+    "options": ["buy", "bought", "buys", "buying"],
+    "correct": 1,
+    "explanation": "الفعل 'bought' هو التصريف الماضي غير المنتظم للفعل 'buy'، ويستخدم لوجود 'last week'."
+  },
+  {
+    "question": "We are ___ visit our grandparents this weekend.",
+    "options": ["will", "go to", "going to", "shall"],
+    "correct": 2,
+    "explanation": "نستخدم 'going to' للتعبير عن الخطط المستقبلية المؤكدة أو المرتب لها."
+  },
+  {
+    "question": "If it rains, we ___ at home.",
+    "options": ["stay", "will stay", "stayed", "staying"],
+    "correct": 1,
+    "explanation": "هذه الحالة الشرطية الأولى (First Conditional): الجزء الثاني يكون 'will' + المصدر."
+  },
+  {
+    "question": "She speaks English ___ than me.",
+    "options": ["well", "good", "better", "best"],
+    "correct": 2,
+    "explanation": "ظرف المقارنة من كلمة 'well' هو 'better'."
+  },
+  {
+    "question": "While I ___ my homework, my brother was playing games.",
+    "options": ["do", "did", "was doing", "am doing"],
+    "correct": 2,
+    "explanation": "نستخدم الماضي المستمر 'was doing' للتعبير عن فعل كان مستمراً في الماضي."
+  },
+  {
+    "question": "I haven't seen him ___ 2010.",
+    "options": ["for", "since", "at", "until"],
+    "correct": 1,
+    "explanation": "نستخدم 'since' لتحديد نقطة بداية الزمن (سنة محددة)."
+  }
+]
